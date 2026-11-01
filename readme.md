@@ -9,5 +9,5 @@
 ### 2. Count Odd Numbers in an Interval Range (#1523)
 * **Посилання на задачу:**
   https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
-* **Файл рішення:** `src/main/java/homework/h01/T2.java
+* **Файл рішення:** src/main/java/homework/h01/T2.java
 
